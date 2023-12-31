@@ -2,4 +2,4 @@
 
 NOTES: ` this is private contents of thepathshala.`
 
-[License]("/")
+[License](https://github.com/01582/fc/blob/main/LICENSE)
