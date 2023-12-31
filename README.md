@@ -1,3 +1,3 @@
 + Fierce Content Delivery
 
-Copyright: Not for commerical uses
++Copyright: Not for commerical uses
